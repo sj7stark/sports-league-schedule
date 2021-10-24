@@ -1,6 +1,6 @@
 # sports-league-schedule
 
-The notebook in this repository contains a model for creating a schedule for a simple sports league. I used this problem to create a schedule for a Pokemon Draft League for a group of YouTubers.
+The notebook in this repository contains a model for creating a schedule for a simple sports league. I used this model to create a schedule for a Pokemon Draft League for a group of YouTubers.
 
 # Problem Definition
 
